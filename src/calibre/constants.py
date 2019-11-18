@@ -181,7 +181,6 @@ class Plugins(collections.Mapping):
                 'matcher',
                 'tokenizer',
                 'certgen',
-                'lzma_binding',
             ]
         if iswindows:
             plugins.extend(['winutil', 'wpd', 'winfonts'])
