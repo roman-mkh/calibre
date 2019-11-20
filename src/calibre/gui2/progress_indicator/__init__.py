@@ -3,7 +3,6 @@
 # License: GPLv3 Copyright: 2015, Kovid Goyal <kovid at kovidgoyal.net>
 
 
-
 import numbers
 from PyQt5.Qt import (
     Qt, QWidget, QSizePolicy, QSize, QRect, QConicalGradient, QPen, QBrush,
