@@ -166,7 +166,6 @@ class Plugins(collections.Mapping):
                 'podofo',
                 'cPalmdoc',
                 'progress_indicator',
-                'chmlib',
                 'icu',
                 'speedup',
                 'html_as_json',
